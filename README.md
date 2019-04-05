@@ -1,2 +1,3 @@
-# wp-writing-stats
-Displays writing stats in the WordPress dashboard
+# WordPress Writing Stats
+
+Displays writing stats in the WordPress dashboard.
